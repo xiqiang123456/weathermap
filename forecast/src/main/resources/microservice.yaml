@@ -27,9 +27,9 @@ servicecomb:
     pattern: "%h %{dd/MMM/yyyy:HH:mm:ss.SSSZ|GMT+0008|en_US}t %r %s %B %D"
 
 # TODO: 使用微服务引擎专业版部署之前，需要配置 AK/SK
-#  credentials:
-#    akskEnabled: true
-#    accessKey: add your ak/sk from huaweicloud
-#    secretKey: add your ak/sk from huaweicloud
-#    akskCustomCipher: default
-#    project: cn-south-1
+  credentials:
+    akskEnabled: true
+    accessKey: ZFGCAVGQ0LJDUTVVG5AC
+    secretKey: k3Gfwl6LnRiX6B1eaQwkoTCrvdrMjIqvvHRxcU0A
+    akskCustomCipher: default
+    project: ap-southeast-1
